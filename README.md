@@ -15,7 +15,9 @@ To start interacting with the application, open `http://localhost:3050/` on a br
 
 
 Reference:
-https://github.com/paullam328/react-docker-eb/blob/main/reverse_proxy/nginx.conf
-https://github.com/JamesFNGibbons/RemoteNginxAPI
-https://github.com/EGMartins/fullcycle-node-mysql-nginx
-https://github.com/MarlonFC/docker-proxy-nginx-node-db
+1. https://github.com/paullam328/react-docker-eb/blob/main/reverse_proxy/nginx.conf
+2. https://github.com/JamesFNGibbons/RemoteNginxAPI
+3. https://github.com/EGMartins/fullcycle-node-mysql-nginx
+4. https://github.com/MarlonFC/docker-proxy-nginx-node-db
+5. https://github.com/eoiny1/Basic-Nginx-PHP-Cert-Docker-Compose
+6. https://github.com/valtech-sd/docker-nginx-webserver
