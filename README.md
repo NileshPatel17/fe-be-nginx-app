@@ -1,5 +1,8 @@
-# Build and Dockerize a Full stack React app with (1) Node.js (2) MySQL and (3) Nginx with reverse proxy.
-
+## Build and Dockerize a Full stack React app with 
+(1) Node.js 
+(2) MySQL and 
+(3) Nginx with reverse proxy.
+****
 Run `npm i` inside the client directory
 
 Run `npm i` inside the server directory
